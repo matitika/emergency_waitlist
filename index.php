@@ -27,8 +27,8 @@
             
             <div class="col-md-6 hero-content">
             <h2>Welcome to Hospital Triage</h2>
-            <p class="lead">Hospital Triage helps admins and patients better understand waiting times in the emergency room.</p>
-            <form>
+            <p class="lead">Hospital Triage helps staff and patients better understand waiting times in the emergency room.</p>
+            <form method="post">
                 <div class="form-group">
                 <input type="text" class="form-control" placeholder="Username">
                 </div>
