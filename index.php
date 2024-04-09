@@ -22,7 +22,7 @@
         <div class="row align-items-center">
             
             <div class="col-md-6">
-            <img src="image.png" class="img-fluid" alt="Image">
+            <img src="img/doctors.svg" class="img-fluid pr-5" alt="Image">
             </div>
             
             <div class="col-md-6 hero-content">
