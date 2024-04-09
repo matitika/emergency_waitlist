@@ -12,7 +12,7 @@
 
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <h5 class="text-white">Hospital Triage</h5>
+            <a class="text-white nav-link" href="index.php">Hospital Triage</a>
             
             <div class="mr-auto"></div>
 
