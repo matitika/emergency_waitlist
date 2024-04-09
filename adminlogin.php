@@ -50,10 +50,11 @@ if (isset($_POST["login"])) {
                         <img src="img/admin.svg" class="col-md-12">
                         <form method="post" class="my-4">
 
-                            <div class="alert alert-warning">
+                            <div class="container">
                                 <?php
                                     if (isset($error['admin'])) {
-                                        $display = $error['admin'];
+                                        $error_msg = $error['admin'];
+                                        $display = "<p class='alert alert-warning'>$error_msg</p>";
                                         
                                     } else {
                                         $display = '';
